@@ -30,11 +30,11 @@ This app serves both as a productivity tool and a showcase of Android best pract
 -**KDoc Documentation**: Comprehensive documentation makes the codebase accessible to contributors and maintainers.
 
 ### Firebase Services
--**Authentication**: Secures user sign-ins.
--**Cloud Firestore**: Stores and syncs tasks across devices.
--**Crashlytics**: Identifies and reports app issues.
--**Performance Monitoring**: Provides real-time performance insights.
--**Remote Config**: Updates app settings remotely.
+- **Authentication**: Secures user sign-ins.
+- **Cloud Firestore**: Stores and syncs tasks across devices.
+- **Crashlytics**: Identifies and reports app issues.
+- **Performance Monitoring**: Provides real-time performance insights.
+- **Remote Config**: Updates app settings remotely.
 
 ## Contributing
 
