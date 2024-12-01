@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74866401163",
+    "project_id": "taskminder-8446f",
+    "storage_bucket": "taskminder-8446f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74866401163:android:01a377ed1f9a84a511d98e",
+        "android_client_info": {
+          "package_name": "com.hekmatullahamin.taskminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ExMh9vHLN2940B_3iQFn5g-pWa6wnUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

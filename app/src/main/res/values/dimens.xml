@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    EditTaskScreen-->
+    <dimen name="edit_task_screen_vertical_spacing">10dp</dimen>
+    <dimen name="task_title_and_description_padding">16dp</dimen>"
+    <dimen name="task_title_and_description_vertical_spacing">10dp</dimen>
+
+    <dimen name="task_priority_vertical_spacing">10dp</dimen>
+    <dimen name="task_priority_horizontal_spacing">10dp</dimen>
+
+    <!--    TaskScreen-->
+    <dimen name="task_screen_padding">10dp</dimen>
+    <dimen name="year_grid_selector_shadow">4dp</dimen>"
+    <dimen name="year_grid_selector_height">200dp</dimen>"
+    <dimen name="year_grid_selector_text_padding">8dp</dimen>
+    <dimen name="year_grid_selector_padding">10dp</dimen>
+    <dimen name="weekday_and_day_of_month_item_padding">10dp</dimen>
+    <dimen name="horizontal_day_picker_content_padding">10dp</dimen>"
+    <dimen name="horizontal_day_picker_horizontal_spacing">10dp</dimen>"
+    <dimen name="weekday_and_day_of_month_item_border_width">2dp</dimen>
+    <dimen name="weekday_and_day_of_month_width">35dp</dimen>
+    <dimen name="floating_action_button_padding">16dp</dimen>
+    <dimen name="task_item_time_and_icon_horizontal_spacing">5dp</dimen>
+    <dimen name="task_item_padding">10dp</dimen>
+    <dimen name="task_item_inner_surface_start_padding">20dp</dimen>
+    <dimen name="task_item_content_padding">15dp</dimen>
+    <dimen name="task_item_checkbox_end_padding">10dp</dimen>
+    <dimen name="task_item_checkbox_border_width">2dp</dimen>
+    <dimen name="task_item_checkbox_size">38dp</dimen>
+    <dimen name="task_item_list_vertical_spacing">10dp</dimen>"
+    <dimen name="task_screen_vertical_spacing">5dp</dimen>
+    <dimen name="task_item_list_vertical_content_padding">10dp</dimen>
+    <dimen name="year_picker_start_and_end_padding">10dp</dimen>
+    <dimen name="month_picker_start_and_end_padding">10dp</dimen>
+    <dimen name="task_item_list_start_and_end_padding">10dp</dimen>
+
+    <!--    DatePicker -->
+    <dimen name="date_picker_dialog_elevation">4dp</dimen>"
+    <dimen name="date_picker_dialog_padding">16dp</dimen>"
+
+    <!--    TimePicker-->
+    <dimen name="time_picker_dialog_elevation">4dp</dimen>"
+    <dimen name="time_picker_dialog_padding">16dp</dimen>"
+
+    <!--    SettingsScreen-->
+    <dimen name="leading_icon_size">40dp</dimen>
+    <dimen name="settings_row_horizontal_spacing">10dp</dimen>
+    <dimen name="settings_screen_vertical_spacing">10dp</dimen>
+
+    <!--    ThemeScreen-->
+    <dimen name="theme_view_height">150dp</dimen>
+    <dimen name="theme_view_corner_radius">10dp</dimen>
+    <dimen name="theme_color_height">40dp</dimen>"
+    <dimen name="theme_view_circle_radius">30dp</dimen>
+    <dimen name="theme_screen_vertical_spacing">10dp</dimen>
+    <dimen name="theme_view_shadow_elevation">2dp</dimen>
+    <dimen name="theme_view_check_image_size">48.dp</dimen>
+    <dimen name="theme_view_check_image_padding_top">2.dp</dimen>
+    <dimen name="theme_view_check_image_padding_end">4.dp</dimen>
+
+    <!--    Card-->
+    <dimen name="card_elevation">1dp</dimen>
+    <dimen name="card_inner_padding">16dp</dimen>
+
+    <!--    common-->
+    <dimen name="screen_padding">10dp</dimen>
+</resources>
